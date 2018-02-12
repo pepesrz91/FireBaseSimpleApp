@@ -13,6 +13,7 @@
 		3468ED9D20321536006C5314 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3468ED9B20321536006C5314 /* Main.storyboard */; };
 		3468EDA920321537006C5314 /* FireBaseSimpleAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3468EDA820321537006C5314 /* FireBaseSimpleAppTests.swift */; };
 		3468EDB420321537006C5314 /* FireBaseSimpleAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3468EDB320321537006C5314 /* FireBaseSimpleAppUITests.swift */; };
+		3468EDC220321620006C5314 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3468EDC120321620006C5314 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		3468EDAF20321537006C5314 /* FireBaseSimpleAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FireBaseSimpleAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3468EDB320321537006C5314 /* FireBaseSimpleAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FireBaseSimpleAppUITests.swift; sourceTree = "<group>"; };
 		3468EDB520321537006C5314 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3468EDC120321620006C5314 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				3468ED9920321536006C5314 /* Assets.xcassets */,
 				3468ED9B20321536006C5314 /* Main.storyboard */,
 				3468ED9E20321536006C5314 /* Info.plist */,
+				3468EDC120321620006C5314 /* GoogleService-Info.plist */,
 				3468ED9F20321536006C5314 /* FireBaseSimpleApp.entitlements */,
 			);
 			path = FireBaseSimpleApp;
@@ -233,6 +236,7 @@
 			files = (
 				3468ED9A20321536006C5314 /* Assets.xcassets in Resources */,
 				3468ED9D20321536006C5314 /* Main.storyboard in Resources */,
+				3468EDC220321620006C5314 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
